@@ -1,0 +1,14 @@
+{
+  "name": "tripreview-mern",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "seed": "npm run seed --prefix server",
+    "seed:100": "node server/src/seed-100.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

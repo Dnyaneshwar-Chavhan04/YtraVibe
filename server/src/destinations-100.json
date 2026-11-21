@@ -1,0 +1,2602 @@
+[
+  {
+    "name": "Goa",
+    "country": "India",
+    "region": "Goa",
+    "category": [
+      "Beach"
+    ],
+    "description": "Goa, Goa: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 15.4909,
+    "longitude": 73.8278
+  },
+  {
+    "name": "Gokarna",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "Beach"
+    ],
+    "description": "Gokarna, Karnataka: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 14.5479,
+    "longitude": 74.3188
+  },
+  {
+    "name": "Varkala",
+    "country": "India",
+    "region": "Kerala",
+    "category": [
+      "Beach"
+    ],
+    "description": "Varkala, Kerala: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 8.7379,
+    "longitude": 76.7163
+  },
+  {
+    "name": "Kovalam",
+    "country": "India",
+    "region": "Kerala",
+    "category": [
+      "Beach"
+    ],
+    "description": "Kovalam, Kerala: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "September–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 8.4004,
+    "longitude": 76.9787
+  },
+  {
+    "name": "Puri",
+    "country": "India",
+    "region": "Odisha",
+    "category": [
+      "Beach"
+    ],
+    "description": "Puri, Odisha: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 19.8135,
+    "longitude": 85.8312
+  },
+  {
+    "name": "Digha",
+    "country": "India",
+    "region": "West Bengal",
+    "category": [
+      "Beach"
+    ],
+    "description": "Digha, West Bengal: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 21.627,
+    "longitude": 87.5074
+  },
+  {
+    "name": "Tarkarli",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "Beach"
+    ],
+    "description": "Tarkarli, Maharashtra: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 16.0333,
+    "longitude": 73.5
+  },
+  {
+    "name": "Alibaug",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "Beach"
+    ],
+    "description": "Alibaug, Maharashtra: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 18.6414,
+    "longitude": 72.8722
+  },
+  {
+    "name": "Ganpatipule",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "Beach"
+    ],
+    "description": "Ganpatipule, Maharashtra: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 17.1448,
+    "longitude": 73.2666
+  },
+  {
+    "name": "Marari",
+    "country": "India",
+    "region": "Kerala",
+    "category": [
+      "Beach"
+    ],
+    "description": "Marari, Kerala: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "September–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 9.602,
+    "longitude": 76.3
+  },
+  {
+    "name": "Radhanagar Beach",
+    "country": "India",
+    "region": "Andaman and Nicobar Islands",
+    "category": [
+      "Beach"
+    ],
+    "description": "Radhanagar Beach, Andaman and Nicobar Islands: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–May",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 11.9833,
+    "longitude": 92.95
+  },
+  {
+    "name": "Agonda",
+    "country": "India",
+    "region": "Goa",
+    "category": [
+      "Beach"
+    ],
+    "description": "Agonda, Goa: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 15.031,
+    "longitude": 73.986
+  },
+  {
+    "name": "Palolem",
+    "country": "India",
+    "region": "Goa",
+    "category": [
+      "Beach"
+    ],
+    "description": "Palolem, Goa: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 15.01,
+    "longitude": 74.023
+  },
+  {
+    "name": "Kanyakumari",
+    "country": "India",
+    "region": "Tamil Nadu",
+    "category": [
+      "Beach"
+    ],
+    "description": "Kanyakumari, Tamil Nadu: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 8.0883,
+    "longitude": 77.5385
+  },
+  {
+    "name": "Chandipur",
+    "country": "India",
+    "region": "Odisha",
+    "category": [
+      "Beach"
+    ],
+    "description": "Chandipur, Odisha: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 21.465,
+    "longitude": 87.015
+  },
+  {
+    "name": "Jaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "category": [
+      "Culture"
+    ],
+    "description": "Jaipur, Rajasthan: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 26.9124,
+    "longitude": 75.7873
+  },
+  {
+    "name": "Udaipur",
+    "country": "India",
+    "region": "Rajasthan",
+    "category": [
+      "Culture"
+    ],
+    "description": "Udaipur, Rajasthan: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "September–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 24.5854,
+    "longitude": 73.7125
+  },
+  {
+    "name": "Jodhpur",
+    "country": "India",
+    "region": "Rajasthan",
+    "category": [
+      "Culture"
+    ],
+    "description": "Jodhpur, Rajasthan: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 26.2389,
+    "longitude": 73.0243
+  },
+  {
+    "name": "Jaisalmer",
+    "country": "India",
+    "region": "Rajasthan",
+    "category": [
+      "Culture"
+    ],
+    "description": "Jaisalmer, Rajasthan: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 26.9157,
+    "longitude": 70.9083
+  },
+  {
+    "name": "Pushkar",
+    "country": "India",
+    "region": "Rajasthan",
+    "category": [
+      "Culture"
+    ],
+    "description": "Pushkar, Rajasthan: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 26.4899,
+    "longitude": 74.5511
+  },
+  {
+    "name": "Mysuru",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "Culture"
+    ],
+    "description": "Mysuru, Karnataka: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 12.2958,
+    "longitude": 76.6394
+  },
+  {
+    "name": "Kochi",
+    "country": "India",
+    "region": "Kerala",
+    "category": [
+      "Culture"
+    ],
+    "description": "Kochi, Kerala: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 9.9312,
+    "longitude": 76.2673
+  },
+  {
+    "name": "Madurai",
+    "country": "India",
+    "region": "Tamil Nadu",
+    "category": [
+      "Culture"
+    ],
+    "description": "Madurai, Tamil Nadu: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 9.9252,
+    "longitude": 78.1198
+  },
+  {
+    "name": "Amritsar",
+    "country": "India",
+    "region": "Punjab",
+    "category": [
+      "Culture"
+    ],
+    "description": "Amritsar, Punjab: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 31.634,
+    "longitude": 74.8723
+  },
+  {
+    "name": "Lucknow",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "category": [
+      "Culture"
+    ],
+    "description": "Lucknow, Uttar Pradesh: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "name": "Ahmedabad",
+    "country": "India",
+    "region": "Gujarat",
+    "category": [
+      "Culture"
+    ],
+    "description": "Ahmedabad, Gujarat: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 23.0225,
+    "longitude": 72.5714
+  },
+  {
+    "name": "Bhopal",
+    "country": "India",
+    "region": "Madhya Pradesh",
+    "category": [
+      "Culture"
+    ],
+    "description": "Bhopal, Madhya Pradesh: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 23.2599,
+    "longitude": 77.4126
+  },
+  {
+    "name": "Bhubaneswar",
+    "country": "India",
+    "region": "Odisha",
+    "category": [
+      "Culture"
+    ],
+    "description": "Bhubaneswar, Odisha: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 20.2961,
+    "longitude": 85.8245
+  },
+  {
+    "name": "Kolkata",
+    "country": "India",
+    "region": "West Bengal",
+    "category": [
+      "Culture"
+    ],
+    "description": "Kolkata, West Bengal: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 22.5726,
+    "longitude": 88.3639
+  },
+  {
+    "name": "Hyderabad",
+    "country": "India",
+    "region": "Telangana",
+    "category": [
+      "Culture"
+    ],
+    "description": "Hyderabad, Telangana: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 17.385,
+    "longitude": 78.4867
+  },
+  {
+    "name": "Manali",
+    "country": "India",
+    "region": "Himachal Pradesh",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Manali, Himachal Pradesh: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "March–June; December–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 32.2396,
+    "longitude": 77.1887
+  },
+  {
+    "name": "Leh",
+    "country": "India",
+    "region": "Ladakh",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Leh, Ladakh: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "June–September",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 34.1526,
+    "longitude": 77.5771
+  },
+  {
+    "name": "Rishikesh",
+    "country": "India",
+    "region": "Uttarakhand",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Rishikesh, Uttarakhand: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "September–November; March–April",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 30.0869,
+    "longitude": 78.2676
+  },
+  {
+    "name": "Bir Billing",
+    "country": "India",
+    "region": "Himachal Pradesh",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Bir Billing, Himachal Pradesh: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "March–May; October–November",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 32.046,
+    "longitude": 76.718
+  },
+  {
+    "name": "Auli",
+    "country": "India",
+    "region": "Uttarakhand",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Auli, Uttarakhand: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "December–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 30.528,
+    "longitude": 79.566
+  },
+  {
+    "name": "Skiing Gulmarg",
+    "country": "India",
+    "region": "Jammu and Kashmir",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Skiing Gulmarg, Jammu and Kashmir: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "December–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 34.0484,
+    "longitude": 74.3805
+  },
+  {
+    "name": "Spiti Valley",
+    "country": "India",
+    "region": "Himachal Pradesh",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Spiti Valley, Himachal Pradesh: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "May–October",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 32.246,
+    "longitude": 78.0349
+  },
+  {
+    "name": "Zanskar",
+    "country": "India",
+    "region": "Ladakh",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Zanskar, Ladakh: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "June–September",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 33.58,
+    "longitude": 76.875
+  },
+  {
+    "name": "Dandeli",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Dandeli, Karnataka: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–May",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 15.247,
+    "longitude": 74.629
+  },
+  {
+    "name": "Kolad",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Kolad, Maharashtra: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "June–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 18.4088,
+    "longitude": 73.0
+  },
+  {
+    "name": "Lonavala",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Lonavala, Maharashtra: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "June–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 18.7546,
+    "longitude": 73.4062
+  },
+  {
+    "name": "Pahalgam",
+    "country": "India",
+    "region": "Jammu and Kashmir",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Pahalgam, Jammu and Kashmir: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "March–October",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 34.0161,
+    "longitude": 75.314
+  },
+  {
+    "name": "Tawang",
+    "country": "India",
+    "region": "Arunachal Pradesh",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Tawang, Arunachal Pradesh: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "March–October",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 27.5861,
+    "longitude": 91.8594
+  },
+  {
+    "name": "Cherrapunji",
+    "country": "India",
+    "region": "Meghalaya",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Cherrapunji, Meghalaya: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–May",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 25.2702,
+    "longitude": 91.7323
+  },
+  {
+    "name": "Andaman Islands",
+    "country": "India",
+    "region": "Andaman and Nicobar Islands",
+    "category": [
+      "Adventure"
+    ],
+    "description": "Andaman Islands, Andaman and Nicobar Islands: A destination for outdoor experiences, scenic routes and active days. Check local conditions before adventure activities.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–May",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular outdoor route",
+      "Visit a scenic viewpoint",
+      "Check licensed local adventure operators"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 11.7401,
+    "longitude": 92.6586
+  },
+  {
+    "name": "Munnar",
+    "country": "India",
+    "region": "Kerala",
+    "category": [
+      "Nature"
+    ],
+    "description": "Munnar, Kerala: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "September–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 10.0889,
+    "longitude": 77.0595
+  },
+  {
+    "name": "Coorg",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "Nature"
+    ],
+    "description": "Coorg, Karnataka: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 12.3375,
+    "longitude": 75.8069
+  },
+  {
+    "name": "Ooty",
+    "country": "India",
+    "region": "Tamil Nadu",
+    "category": [
+      "Nature"
+    ],
+    "description": "Ooty, Tamil Nadu: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–June",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 11.4102,
+    "longitude": 76.695
+  },
+  {
+    "name": "Kodaikanal",
+    "country": "India",
+    "region": "Tamil Nadu",
+    "category": [
+      "Nature"
+    ],
+    "description": "Kodaikanal, Tamil Nadu: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–June",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 10.2381,
+    "longitude": 77.4892
+  },
+  {
+    "name": "Wayanad",
+    "country": "India",
+    "region": "Kerala",
+    "category": [
+      "Nature"
+    ],
+    "description": "Wayanad, Kerala: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–May",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 11.6854,
+    "longitude": 76.132
+  },
+  {
+    "name": "Shillong",
+    "country": "India",
+    "region": "Meghalaya",
+    "category": [
+      "Nature"
+    ],
+    "description": "Shillong, Meghalaya: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–April",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 25.5788,
+    "longitude": 91.8933
+  },
+  {
+    "name": "Dawki",
+    "country": "India",
+    "region": "Meghalaya",
+    "category": [
+      "Nature"
+    ],
+    "description": "Dawki, Meghalaya: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–April",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 25.186,
+    "longitude": 92.024
+  },
+  {
+    "name": "Tirthan Valley",
+    "country": "India",
+    "region": "Himachal Pradesh",
+    "category": [
+      "Nature"
+    ],
+    "description": "Tirthan Valley, Himachal Pradesh: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "March–June; September–November",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 31.591,
+    "longitude": 77.39
+  },
+  {
+    "name": "Valley of Flowers",
+    "country": "India",
+    "region": "Uttarakhand",
+    "category": [
+      "Nature"
+    ],
+    "description": "Valley of Flowers, Uttarakhand: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "July–September",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 30.728,
+    "longitude": 79.605
+  },
+  {
+    "name": "Nainital",
+    "country": "India",
+    "region": "Uttarakhand",
+    "category": [
+      "Nature"
+    ],
+    "description": "Nainital, Uttarakhand: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "March–June; September–November",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 29.3919,
+    "longitude": 79.4542
+  },
+  {
+    "name": "Mount Abu",
+    "country": "India",
+    "region": "Rajasthan",
+    "category": [
+      "Nature"
+    ],
+    "description": "Mount Abu, Rajasthan: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 24.5926,
+    "longitude": 72.7156
+  },
+  {
+    "name": "Pachmarhi",
+    "country": "India",
+    "region": "Madhya Pradesh",
+    "category": [
+      "Nature"
+    ],
+    "description": "Pachmarhi, Madhya Pradesh: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–June",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 22.4674,
+    "longitude": 78.4331
+  },
+  {
+    "name": "Mahabaleshwar",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "Nature"
+    ],
+    "description": "Mahabaleshwar, Maharashtra: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–June",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 17.9307,
+    "longitude": 73.6477
+  },
+  {
+    "name": "Saputara",
+    "country": "India",
+    "region": "Gujarat",
+    "category": [
+      "Nature"
+    ],
+    "description": "Saputara, Gujarat: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 20.5762,
+    "longitude": 73.7498
+  },
+  {
+    "name": "Araku Valley",
+    "country": "India",
+    "region": "Andhra Pradesh",
+    "category": [
+      "Nature"
+    ],
+    "description": "Araku Valley, Andhra Pradesh: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 18.3273,
+    "longitude": 82.8775
+  },
+  {
+    "name": "Ziro Valley",
+    "country": "India",
+    "region": "Arunachal Pradesh",
+    "category": [
+      "Nature"
+    ],
+    "description": "Ziro Valley, Arunachal Pradesh: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "March–October",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 27.5948,
+    "longitude": 93.838
+  },
+  {
+    "name": "Kaziranga",
+    "country": "India",
+    "region": "Assam",
+    "category": [
+      "Nature"
+    ],
+    "description": "Kaziranga, Assam: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "November–April",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 26.5775,
+    "longitude": 93.1711
+  },
+  {
+    "name": "Sundarbans",
+    "country": "India",
+    "region": "West Bengal",
+    "category": [
+      "Nature"
+    ],
+    "description": "Sundarbans, West Bengal: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 21.9497,
+    "longitude": 88.8888
+  },
+  {
+    "name": "Nubra Valley",
+    "country": "India",
+    "region": "Ladakh",
+    "category": [
+      "Nature"
+    ],
+    "description": "Nubra Valley, Ladakh: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "June–September",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 34.6847,
+    "longitude": 77.566
+  },
+  {
+    "name": "Pangong Lake",
+    "country": "India",
+    "region": "Ladakh",
+    "category": [
+      "Nature"
+    ],
+    "description": "Pangong Lake, Ladakh: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "June–September",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 33.7595,
+    "longitude": 78.667
+  },
+  {
+    "name": "Hampi",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "History"
+    ],
+    "description": "Hampi, Karnataka: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 15.335,
+    "longitude": 76.46
+  },
+  {
+    "name": "Khajuraho",
+    "country": "India",
+    "region": "Madhya Pradesh",
+    "category": [
+      "History"
+    ],
+    "description": "Khajuraho, Madhya Pradesh: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 24.8318,
+    "longitude": 79.9199
+  },
+  {
+    "name": "Ajanta Caves",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "History"
+    ],
+    "description": "Ajanta Caves, Maharashtra: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "November–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 20.5519,
+    "longitude": 75.7033
+  },
+  {
+    "name": "Ellora Caves",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "History"
+    ],
+    "description": "Ellora Caves, Maharashtra: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 20.0268,
+    "longitude": 75.179
+  },
+  {
+    "name": "Sanchi",
+    "country": "India",
+    "region": "Madhya Pradesh",
+    "category": [
+      "History"
+    ],
+    "description": "Sanchi, Madhya Pradesh: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 23.4793,
+    "longitude": 77.7397
+  },
+  {
+    "name": "Fatehpur Sikri",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "category": [
+      "History"
+    ],
+    "description": "Fatehpur Sikri, Uttar Pradesh: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 27.0945,
+    "longitude": 77.6679
+  },
+  {
+    "name": "Agra",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "category": [
+      "History"
+    ],
+    "description": "Agra, Uttar Pradesh: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 27.1767,
+    "longitude": 78.0081
+  },
+  {
+    "name": "Delhi",
+    "country": "India",
+    "region": "Delhi",
+    "category": [
+      "History"
+    ],
+    "description": "Delhi, Delhi: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 28.6139,
+    "longitude": 77.209
+  },
+  {
+    "name": "Konark",
+    "country": "India",
+    "region": "Odisha",
+    "category": [
+      "History"
+    ],
+    "description": "Konark, Odisha: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 19.8876,
+    "longitude": 86.0945
+  },
+  {
+    "name": "Mahabalipuram",
+    "country": "India",
+    "region": "Tamil Nadu",
+    "category": [
+      "History"
+    ],
+    "description": "Mahabalipuram, Tamil Nadu: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 12.6208,
+    "longitude": 80.1945
+  },
+  {
+    "name": "Hampi Virupaksha Temple",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "History"
+    ],
+    "description": "Hampi Virupaksha Temple, Karnataka: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 15.335,
+    "longitude": 76.46
+  },
+  {
+    "name": "Chittorgarh",
+    "country": "India",
+    "region": "Rajasthan",
+    "category": [
+      "History"
+    ],
+    "description": "Chittorgarh, Rajasthan: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 24.8887,
+    "longitude": 74.6269
+  },
+  {
+    "name": "Ranthambore Fort",
+    "country": "India",
+    "region": "Rajasthan",
+    "category": [
+      "History"
+    ],
+    "description": "Ranthambore Fort, Rajasthan: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–April",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 26.0173,
+    "longitude": 76.5026
+  },
+  {
+    "name": "Orchha",
+    "country": "India",
+    "region": "Madhya Pradesh",
+    "category": [
+      "History"
+    ],
+    "description": "Orchha, Madhya Pradesh: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 25.3519,
+    "longitude": 78.6407
+  },
+  {
+    "name": "Badami",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "History"
+    ],
+    "description": "Badami, Karnataka: Explore historic landmarks, heritage architecture and stories from the region’s past.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major heritage site",
+      "Explore local museums or monuments",
+      "Learn about the destination’s history"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 15.9149,
+    "longitude": 75.6768
+  },
+  {
+    "name": "Mumbai",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "City"
+    ],
+    "description": "Mumbai, Maharashtra: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 19.076,
+    "longitude": 72.8777
+  },
+  {
+    "name": "Pune",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "City"
+    ],
+    "description": "Pune, Maharashtra: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 18.5204,
+    "longitude": 73.8567
+  },
+  {
+    "name": "Bengaluru",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "City"
+    ],
+    "description": "Bengaluru, Karnataka: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "name": "Chennai",
+    "country": "India",
+    "region": "Tamil Nadu",
+    "category": [
+      "City"
+    ],
+    "description": "Chennai, Tamil Nadu: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 13.0827,
+    "longitude": 80.2707
+  },
+  {
+    "name": "Delhi NCR",
+    "country": "India",
+    "region": "Delhi",
+    "category": [
+      "City"
+    ],
+    "description": "Delhi NCR, Delhi: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 28.6139,
+    "longitude": 77.209
+  },
+  {
+    "name": "Indore",
+    "country": "India",
+    "region": "Madhya Pradesh",
+    "category": [
+      "City"
+    ],
+    "description": "Indore, Madhya Pradesh: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 22.7196,
+    "longitude": 75.8577
+  },
+  {
+    "name": "Surat",
+    "country": "India",
+    "region": "Gujarat",
+    "category": [
+      "City"
+    ],
+    "description": "Surat, Gujarat: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 21.1702,
+    "longitude": 72.8311
+  },
+  {
+    "name": "Nagpur",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "City"
+    ],
+    "description": "Nagpur, Maharashtra: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 21.1458,
+    "longitude": 79.0882
+  },
+  {
+    "name": "Nashik",
+    "country": "India",
+    "region": "Maharashtra",
+    "category": [
+      "City"
+    ],
+    "description": "Nashik, Maharashtra: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 19.9975,
+    "longitude": 73.7898
+  },
+  {
+    "name": "Chandigarh",
+    "country": "India",
+    "region": "Chandigarh",
+    "category": [
+      "City"
+    ],
+    "description": "Chandigarh, Chandigarh: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 30.7333,
+    "longitude": 76.7794
+  },
+  {
+    "name": "Guwahati",
+    "country": "India",
+    "region": "Assam",
+    "category": [
+      "City"
+    ],
+    "description": "Guwahati, Assam: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–April",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 26.1445,
+    "longitude": 91.7362
+  },
+  {
+    "name": "Visakhapatnam",
+    "country": "India",
+    "region": "Andhra Pradesh",
+    "category": [
+      "City"
+    ],
+    "description": "Visakhapatnam, Andhra Pradesh: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 17.6868,
+    "longitude": 83.2185
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "country": "India",
+    "region": "Kerala",
+    "category": [
+      "City"
+    ],
+    "description": "Thiruvananthapuram, Kerala: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–March",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 8.5241,
+    "longitude": 76.9366
+  },
+  {
+    "name": "Mangaluru",
+    "country": "India",
+    "region": "Karnataka",
+    "category": [
+      "City"
+    ],
+    "description": "Mangaluru, Karnataka: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 12.9141,
+    "longitude": 74.856
+  },
+  {
+    "name": "Vijayawada",
+    "country": "India",
+    "region": "Andhra Pradesh",
+    "category": [
+      "City"
+    ],
+    "description": "Vijayawada, Andhra Pradesh: Discover neighbourhoods, food, shopping, urban attractions and everyday local life.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "October–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore a popular neighbourhood",
+      "Visit a local market or food street",
+      "See a major city landmark"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 16.5062,
+    "longitude": 80.648
+  },
+  {
+    "name": "Kutch",
+    "country": "India",
+    "region": "Gujarat",
+    "category": [
+      "Culture"
+    ],
+    "description": "Kutch, Gujarat: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 23.7337,
+    "longitude": 69.8597
+  },
+  {
+    "name": "Rameswaram",
+    "country": "India",
+    "region": "Tamil Nadu",
+    "category": [
+      "Culture"
+    ],
+    "description": "Rameswaram, Tamil Nadu: Discover local traditions, architecture, markets, regional food and cultural experiences.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "October–April",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a major cultural landmark",
+      "Explore a traditional market",
+      "Taste regional cuisine"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 9.2876,
+    "longitude": 79.3129
+  },
+  {
+    "name": "Diu",
+    "country": "India",
+    "region": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": [
+      "Beach"
+    ],
+    "description": "Diu, Dadra and Nagar Haveli and Daman and Diu: A coastal destination known for its shoreline, sea views and relaxed local atmosphere.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹2,000–₹4,000/day",
+    "bestTime": "November–February",
+    "duration": "2–4 days",
+    "highlights": [
+      "Explore the main beach or waterfront",
+      "Try local coastal food",
+      "Watch the sunset from a public viewpoint"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 20.7144,
+    "longitude": 70.9874
+  },
+  {
+    "name": "Kanha National Park",
+    "country": "India",
+    "region": "Madhya Pradesh",
+    "category": [
+      "Nature"
+    ],
+    "description": "Kanha National Park, Madhya Pradesh: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹3,000–₹6,000/day",
+    "bestTime": "October–June",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 22.3345,
+    "longitude": 80.6115
+  },
+  {
+    "name": "Jim Corbett National Park",
+    "country": "India",
+    "region": "Uttarakhand",
+    "category": [
+      "Nature"
+    ],
+    "description": "Jim Corbett National Park, Uttarakhand: Enjoy scenic landscapes, green spaces, viewpoints and opportunities to spend time outdoors.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [],
+    "budget": "₹1,500–₹3,000/day",
+    "bestTime": "November–June",
+    "duration": "2–4 days",
+    "highlights": [
+      "Visit a well-known natural viewpoint",
+      "Explore a nearby park or nature trail",
+      "Plan time for scenic photography"
+    ],
+    "travelTips": [
+      "Check current weather and local transport before departure.",
+      "Confirm opening hours, entry fees and permit requirements before visiting.",
+      "Respect local customs and keep natural and heritage sites clean."
+    ],
+    "latitude": 29.53,
+    "longitude": 78.7747
+  }
+]
